@@ -1,0 +1,35 @@
+.dolores{
+    background-color: darksalmon;
+ border: 2px solid yellowgreen;
+ display: block;
+ /* display: inline-block; */
+ /* display: contents; */
+ height: 100px;
+ padding: 5px 10px;
+ margin: 10px;
+ box-shadow: 10px 10px 110px saddlebrown;
+
+}
+.blogss{
+ text-decoration: underline;
+}
+
+#case{
+    height: 500px;
+    background-color: rgb(195, 86, 195);
+    text-align: center;
+    background-image:url('../styles/pic/995ba9806c061755f4eddf7592a3794b.jpg');
+    /* background-position: bottom; */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-repeat: repeat-y; */
+  background-size: contain;
+  /* background-size: cover; */
+}
+
+div{
+    color: rgb(142, 24, 32);
+
+
+}
+
